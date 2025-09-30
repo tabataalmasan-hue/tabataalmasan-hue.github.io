@@ -373,6 +373,7 @@ footer .copyright {
 .animate-on-scroll.is-visible {
     opacity: 1;
     transform: translateY(0);
+    color:white;
 }
 
 /* Animation Delays */
