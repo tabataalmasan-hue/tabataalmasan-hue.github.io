@@ -392,10 +392,6 @@ footer .copyright {
     transition-delay: 0.5s;
 }
 
-.section-title animate-on-scroll {
- color:white;
-}
-
 /* About Me Section */
 .about-me-container {
     display: flex;
